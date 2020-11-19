@@ -99,8 +99,8 @@
 \location{May 2020 – Aug 2020 (3+ months) | Cambridge, MA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Designed an error analysis pipeline to enhance understanding of Breast Cancer Detection model's weak points using Python.
-\item Developed a system for taking in cancer annotations and confirmations from doctors, comparing results, and generating follow ups using Javascript and Python. 
+\item Designed an error analysis pipeline to enhance understanding of a Breast Cancer Detection model's weak points using Python.
+\item Developed a system for aggregating cancer annotations and confirmations from doctors, comparing results, and generating follow ups using Javascript and Python. 
 \end{tightemize}
 \sectionsep
 
@@ -108,9 +108,9 @@
 \descript{| Research Assistant}
 \location{Jan 2019 – Feb 2020 (1 year, 1 month) | Boston, MA}
 \begin{tightemize}
-\item Implemented multiple Deep Learning classifiers such as LSTMs in order to classify users of IoT systems using exclusively network traffic.
-\item Engineered features and implemented Isolation Forest and Kernel Density Estimator models to detect self-propogating malware such as WannaCry.
-\item Cleaned over 50 GB of simulated messages between self-driving cars in order to develop a system for identifying malicious messages, which achieved over 90\% accuracy on all attacks.
+\item Implemented multiple Deep Learning classifiers such as LSTMs to classify users of IoT systems using exclusively network traffic.
+\item Engineered features and implemented Isolation Forest and Kernel Density Estimator models to detect self-propagating malware such as WannaCry.
+\item Cleaned over 50 GB of simulated messages between self-driving cars to develop a system for identifying malicious messages, which achieved over 90\% accuracy on all attacks.
 \end{tightemize}
 \sectionsep
 
@@ -120,13 +120,13 @@
 \begin{tightemize}
 \item Optimized download, upload, and labeling sections of data pipeline via multiprocessing to decrease training time for the object detection system from 4 weeks to 2 weeks.
 \item Trained logo detection model using transfer learning, increasing number of classes by 500 while maintaining performance.
-\item Researched NLP approaches for content safety in videos, using FastText and Word2Vec models on video descriptons.
+\item Researched NLP approaches for content safety in videos, using FastText and Word2Vec models on video descriptions.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Intuit}
 \descript{| Software Engineer Co-op}
-\location{Jan 2017 – July 2017 (6 months) | San Diego, MA}
+\location{Jan 2017 – July 2017 (6 months) | San Diego, CA}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -135,15 +135,15 @@
 
 \section{Projects}
 
-\runsubsection{Predicting The Outcome of Smashbros}
-\location{} % Hacky fix for font styling
-Group project for Supervised Machine Learning. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
-
-\sectionsep
 
 \runsubsection{Large-Scale Analysis of Gene Sensitivity}
 \location{} % Hacky fix for font styling
-Individual project for Statistical Methods in Computer Science. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Used large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
+Individual project for Statistical Methods in Computer Science course. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Applied large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
+\sectionsep
+
+\runsubsection{Predicting The Outcome of Smashbros}
+\location{} % Hacky fix for font styling
+Group project for Supervised Machine Learning course. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
 \sectionsep
 
 \section{Publications}
@@ -243,45 +243,59 @@ Dean's List, Dean's Scholarship \\
 \location{ Cum. GPA: 3.73 / 4.0}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Skills}
-\subsection{Programming}
-Python, R, Scala, pandas, numpy, Keras, sklearn, matplotlib, tidyverse, git, SQL
-\sectionsep
-\subsection{Concepts}
-Deep Learning, Supervised Learning, Unsupervised Learning, Functional Programming, Software Development, NoSQL 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Coursework}
-\subsection{Graduate}
+\runsubsection{Graduate}
+\location{}
 Supervised Machine Learning\\
 Unsupervised Machine Learning\\
 Reinforcement Learning\\
 Statistical Methods in Computer Science\\
 Data Management and Processing\\
-Algorithms
+Algorithms\\
 \sectionsep
-
-\subsection{Undergraduate}
+\runsubsection{Undergraduate}
+\location{}
 Large-Scale Information Handling\\
 Software Development\\
 Linear Algebra and Differential Equations\\
-Object-Oriented Design
+Object-Oriented Design\\
 \sectionsep
+
+\section{Certifications}
+\runsubsection{Deep Learning Specialization}
+\location{}
+\vspace{-11pt}
+Completed Andrew Ng's Deep Learning Specialization, including courses on Deep Neural Networks, Hyperparameter Tuning, Convolutional Neural Networks, and Sequence Models.
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\runsubsection{Programming}
+\location{}
+Python, R, Scala, pandas, numpy, Keras, sklearn, matplotlib, tidyverse, git, SQL\\
+\sectionsep
+\runsubsection{Concepts}
+\location{}
+Deep Learning, Supervised Learning, Unsupervised Learning, Functional Programming, Software Development, NoSQL 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Societies
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Interests}
-Chess, Golf, Bicycling, Data Privacy, Cooking
+Chess, Bicycling, Fitness, Data Privacy, Cooking, Functional Programming
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
