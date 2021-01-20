@@ -147,16 +147,13 @@
 
 \section{Publications \& Projects}
 
-\textbf{Large-Scale Analysis of Gene Sensitivity}: Individual project for Statistical Methods in Computer Science course. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Applied large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
+\textbf{The House That Knows You:} Extracted data from IoT network traffic logs to classify the user of the IoT devices during a given time period, with top overall F1 score of 0.86. \href{https://arxiv.org/abs/1908.00592}{https://arxiv.org/abs/1908.00592}
 \sectionsep
 
-\textbf{Predicting The Outcome of Smashbros}: Group project for Supervised Machine Learning course. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
+\textbf{Large-Scale Analysis of Gene Sensitivity:} Individual project for Statistical Methods in Computer Science course. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Applied large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
 \sectionsep
 
-\textbf{The House That Knows You} Extracted data from IoT network traffic logs to classify the user of the IoT devices during a given time period, with top overall F1 score of 0.86. \href{https://arxiv.org/abs/1908.00592}{https://arxiv.org/abs/1908.00592}
+\textbf{Predicting The Outcome of Smashbros:} Group project for Supervised Machine Learning course. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{document}  \documentclass[]{article}
