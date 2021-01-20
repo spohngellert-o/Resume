@@ -80,24 +80,41 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Oliver Spohngellert}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
-\href{mailto:spohngellert.o@northeastern.edu}{spohngellert.o@northeastern.edu}\space\space|\space\space \href{tel:19177501162}{917-750-1162} \\\href{https://github.com/spohngellert-o}{github.com/spohngellert-o}\space\space|\space\space \href{https://oliverspohngellert.com/}{oliverspohngellert.com}}
+\href{mailto:spohngellert.o@northeastern.edu}{spohngellert.o@northeastern.edu}\space\space|\space\space \href{tel:19177501162}{917-750-1162} \\\href{https://github.com/spohngellert-o}{github.com/spohngellert-o}\space\space|\space\space \href{https://oliverspohngellert.com/}{oliverspohngellert.com}\space\space|\space\space \href{https://www.linkedin.com/in/spohngellert-o/}{linkedin.com/in/spohngellert-o}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN ONE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.60\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
+\section{Education}
+
+\runsubsection{Master of Science in Data Science}
+\descript{Northeastern University}
+\location{May 2021\space\space|\space\space Boston, MA}
+\textbf{GPA:} 3.8/4.0 \space\space|\space\space \textbf{ Relevant Courses:} Data Science Capstone, Deep Learning, Reinforcement Learning, Supervised Machine Learning, Unsupervised Machine Learning, Statistical Methods in Computing, Data Management, Algorithms
+\sectionsep
+
+\runsubsection{Bachelor of Science in Computer Science, minor in Math}
+\descript{Northeastern University}
+\location{May 2019\space\space|\space\space Boston, MA}
+\textbf{GPA:} 3.73/4.0 \space\space|\space\space
+\textbf{Relevant Courses:} Large\- Scale Storage/Retrieval, Software Development, Linear Algebra and Differential Equations, Object Oriented Design, Probability and Statistics
+
+\section{Skills}
+\textbf{Programming:} Python, R, Scala, pandas, numpy, Keras, sklearn, matplotlib, tidyverse, git, SQL\\
+\textbf{Concepts:} Deep Learning, Object Detection, Supervised Learning, Unsupervised Learning, Functional Programming, Software Development, NoSQL
+
+\section{Work Experience}
 \runsubsection{Deep Health}
 \descript{| Machine Learning Intern}
 \location{May 2020 – Aug 2020 (3+ months) | Cambridge, MA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{-1pt} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Designed an error analysis pipeline to enhance understanding of a Breast Cancer Detection model's weak points using Python.
 \item Developed a system for aggregating cancer annotations and confirmations from doctors, comparing results, and generating follow ups using Javascript and Python. 
@@ -127,180 +144,23 @@
 \runsubsection{Intuit}
 \descript{| Software Engineer Co-op}
 \location{Jan 2017 – July 2017 (6 months) | San Diego, CA}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Projects}
+\section{Publications \& Projects}
 
-
-\runsubsection{Large-Scale Analysis of Gene Sensitivity}
-\location{} % Hacky fix for font styling
-Individual project for Statistical Methods in Computer Science course. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Applied large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
+\textbf{Large-Scale Analysis of Gene Sensitivity}: Individual project for Statistical Methods in Computer Science course. Used Broad Institute's L1000 dataset to identify genes that are most and least likely to change expression level under perturbation. Applied large scale ANOVA testing with Benjamini–Hochberg correction for multiple testing.
 \sectionsep
 
-\runsubsection{Predicting The Outcome of Smashbros}
-\location{} % Hacky fix for font styling
-Group project for Supervised Machine Learning course. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
+\textbf{Predicting The Outcome of Smashbros}: Group project for Supervised Machine Learning course. Scraped data from 10 tournaments, extracted and cleaned it in order to predict the outcome of games based on the current game state. Achieved 74\% accuracy and 0.83 AUC using a Logistic Regression model.
 \sectionsep
 
-\section{Publications}
-{\bf The House That Knows You} Extracted data from IoT network traffic logs to classify the user of the IoT devices during a given time period, with top overall F1 score of 0.86. \href{https://arxiv.org/abs/1908.00592}{https://arxiv.org/abs/1908.00592}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Research}
-% \runsubsection{Cornell Robot Learning Lab}
-% \descript{| Researcher}
-% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
-% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.
-% \sectionsep
-
-% \runsubsection{Cornell Phonetics Lab}
-% \descript{| Head Undergraduate Researcher}
-% \location{Mar 2012 – May 2013 | Ithaca, NY}
-% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COMMUNITY SERVICE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Community Service}
-
-% \begin{tabular}{rll}
-% 2013 -- 2018    & Tennessee     & St. Baldrick's Foundation\\
-% 2014 -- 2017	& Tennessee     & American Cancer Society's Hope Lodge\\
-% 2013 -- 2015    & Tennessee     & Habitat for Humanity\\
-% 2011 -- 2015    & Tennessee     & Special Olympics\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Societies}
-
-% \begin{tabular}{rll}
-% 2018 -- 2018    & National      & Association of Computing Machinery (ACM)\\
-% 2017 -- 2019	& National      & Scrum Alliance Certified ScrumMaster\\
-% 2015 -- 2019    & University    & Shackouls Honors College\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Awards}
-% \begin{tabular}{rll}
-% 2015        & 99\textsuperscript{th} percentile & National Merit Scholarship Finalist\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Publications}
-% \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-% \bibliographystyle{abbrv}
-% \bibliography{publications}
-% \nocite{*}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     COLUMN TWO
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\end{minipage}
-\hfill
-\begin{minipage}[t]{0.36\textwidth}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Education}
-
-\subsection{Northeastern University}
-\descript{Candidate for Master's of Science in Data Science}
-\location{Expected May 2021 | Boston, MA}
-% College of Engineering \\
-\location{ Cum. GPA: 3.67 / 4.0}
-\sectionsep
-
-\descript{Bachelor of Science in Computer Science with minor in Mathematics}
-\location{May 2019 | Boston, MA}
-% College of Engineering \\
-Dean's List, Dean's Scholarship \\
-\location{ Cum. GPA: 3.73 / 4.0}
-\sectionsep
-
-\section{Coursework}
-\runsubsection{Graduate}
-\location{}
-Supervised Machine Learning\\
-Unsupervised Machine Learning\\
-Reinforcement Learning\\
-Statistical Methods in Computer Science\\
-Data Management and Processing\\
-Algorithms\\
-\sectionsep
-\runsubsection{Undergraduate}
-\location{}
-Large-Scale Information Handling\\
-Software Development\\
-Linear Algebra and Differential Equations\\
-Object-Oriented Design\\
-\sectionsep
-
-\section{Certifications}
-\runsubsection{Deep Learning Specialization}
-\location{}
-\vspace{-11pt}
-Completed Andrew Ng's Deep Learning Specialization, including courses on Deep Neural Networks, Hyperparameter Tuning, Convolutional Neural Networks, and Sequence Models.
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Skills}
-\runsubsection{Programming}
-\location{}
-Python, R, pandas, numpy, Keras, sklearn, matplotlib, tidyverse, git, SQL\\
-\sectionsep
-\runsubsection{Concepts}
-\location{}
-Deep Learning, Supervised Learning, Unsupervised Learning, Functional Programming, Software Development, NoSQL 
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Societies
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Interests}
-Chess, Bicycling, Fitness, Data Privacy, Cooking, Functional Programming
-\sectionsep
+\textbf{The House That Knows You} Extracted data from IoT network traffic logs to classify the user of the IoT devices during a given time period, with top overall F1 score of 0.86. \href{https://arxiv.org/abs/1908.00592}{https://arxiv.org/abs/1908.00592}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage}
 \end{document}  \documentclass[]{article}
