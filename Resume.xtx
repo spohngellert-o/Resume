@@ -99,7 +99,7 @@
 \item Researched zip code based team affinity using historical article view data (Jupyter, BigQuery).
 \item Implemented time series classification on skeletal data to determine whether a batter attempted a checked swing.
 \item Developed end to end system for showing multiple pitches in one video using object detection.
-\item Lead and organized monthly Data Science research meetings aimed at discussing emerging state of the art techniques.
+\item Led and organized monthly Data Science research meetings aimed at discussing emerging state of the art techniques.
 \end{tightemize}
 \sectionsep
 
