@@ -91,51 +91,55 @@
 \majorsectionsep
 
 \section{Work Experience}
+
+\runsubsection{Peacock}
+\descript{| Senior Data Scientist}
+\joblocation{Nov 2022 – Present | New York, NY}
+\begin{tightemize}
+\item Researched \& productionalized content clustering using 2 years of Peacock viewing data (> 10 TB). Clusters used throughout the organization for all marketing, targeting, recommendation efforts (GCP, BigQuery, scikit-learn, Airflow).
+\item Developed methodology for assigning users to content clusters, accounting for cluster sizes and types (GCP, matplotlib).
+\item Architected system for inserting new content into existing clusters on an ongoing basis (BigQuery, Airflow).
+\item Designed \& deployed customizable user migration dashboard visualization tool (Streamlit, App Engine, Plotly, Docker).
+\item Devised directional content affinity metrics based on Market Basket analysis, used to drive high level strategic decisions.
+\item Onboarded, mentored, and managed an intern; taught best practices and managed tasks.
+\item Managed relationships with key stakeholders, presented data for a range of technical expertise, updated team processes.
+
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Major League Baseball}
 \descript{| Machine Learning Engineer}
-\location{May 2021 – Present (8 months) | New York, NY}
+\joblocation{May 2021 – Oct 2022 | New York, NY}
 \begin{tightemize}
-\item Deployed a personalized video recommendation system API for top hitting, pitching, and fielding plays. Used Logistic Regression and Feed Forward Neural Networks to build ranking system (GCP, scikit-learn, kubernetes).
+\item Built end to end classifier for live official scoring of MLB plays in game at 95\% accuracy (scikit-learn, seldon, BigQuery).
+\item Deployed a personalized video recommendation system API for top hitting, pitching, and fielding plays. Used Logistic Regression and Feed Forward Neural Networks to build ranking system (GCP, scikit-learn, kubernetes, argo workflows).
+\item Developed algorithms for comparing player batting stances with user stances submitted via image (MediaPipe, FastAPI).
 \item Researched zip code based team affinity using historical article view data (Jupyter, BigQuery).
 \item Implemented time series classification on skeletal data to determine whether a batter attempted a checked swing.
-\item Developed end to end system for showing multiple pitches in one video using object detection.
-\item Led and organized monthly Data Science research meetings aimed at discussing emerging state of the art techniques.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Deep Health}
 \descript{| Machine Learning Intern}
-\location{May 2020 – Aug 2020 (4 months) | Cambridge, MA}
+\joblocation{May 2020 – Aug 2020 | Cambridge, MA}
 \begin{tightemize}
 \item Designed an error analysis pipeline, enhancing understanding of Cancer Detection model (pandas, numpy, matplotlib).
 \item Developed a system for aggregating cancer annotations, comparing results, generating follow-ups (python, javascript). 
 \end{tightemize}
 \sectionsep
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Education
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \runsubsection{Northeastern NDS2 Lab}
 \descript{| Research Assistant}
-\location{Jan 2019 – Feb 2020 (1 year, 1 month) | Boston, MA}
+\joblocation{Jan 2019 – Feb 2020 | Boston, MA}
 \begin{tightemize}
 \item Implemented Recurrent Neural Networks (RNNs) to classify users of IoT systems using exclusively network traffic.
 \item Engineered features and implemented unsupervised classification models to detect self-propagating malware.
 \end{tightemize}
 \sectionsep
-
-\runsubsection{Netra}
-\descript{| Deep Learning/Machine Learning Co-op}
-\location{Jan 2018 – July 2018 (6 months) | Boston, MA}
-\begin{tightemize}
-\item Optimized download, upload, and labeling sections of data pipeline via multiprocessing to decrease training time for the object detection system from 4 weeks to 2 weeks.
-\item Trained logo detection model using transfer learning, increasing number of classes by 500.
-\item Researched NLP approaches for content safety in videos, using FastText and Word2Vec models on video descriptions.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Intuit}
-\descript{| Software Engineer Co-op}
-\location{Jan 2017 – July 2017 (6 months) | San Diego, CA}
 
 \smallsectionsep
 
@@ -145,35 +149,29 @@
 \descript{Northeastern University}
 \location{May 2021\space\space|\space\space Boston, MA}
 \textbf{GPA:} 3.8/4.0 \space\space|\space\space \textbf{ Relevant Courses:} Data Science Capstone, Deep Learning, Reinforcement Learning, Supervised Machine Learning, Unsupervised Machine Learning, Statistical Methods in Computing, Data Management, Algorithms
-\sectionsep
+\sectionsep \sectionsep
 
 \runsubsection{Bachelor of Science in Computer Science, minor in Math}
 \descript{Northeastern University}
 \location{May 2019\space\space|\space\space Boston, MA}
 \textbf{GPA:} 3.73/4.0 \space\space|\space\space
-\textbf{Relevant Courses:} Large\- Scale Storage/Retrieval, Software Development, Linear Algebra and Differential Equations, Object Oriented Design, Probability and Statistics
+\textbf{Relevant Courses:} Software Development, Linear Algebra,  Differential Equations, Probability and Statistics
 
 \smallsectionsep
 
 \section{Skills}
-\textbf{Programming:} python, R, pandas, numpy, pytorch, keras, sklearn, matplotlib, tidyverse, git, SQL, linux/unix, GCP\\
-\textbf{Concepts:} Deep Learning, Supervised/Unsupervised Learning, Functional Programming, Software Development, NoSQL
+\textbf{Programming}: python, pandas, numpy, pytorch, keras, sklearn, matplotlib, git, github, SQL, linux/unix, bash \\
+\textbf{Cloud}: Google Cloud Platform, BigQuery, VertexAI, Airflow, Google Cloud Storage, Composer, Docker
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\smallsectionsep
-
-\section{Publications}
-
-\textbf{The House That Knows You:} Extracted data from IoT network traffic logs to classify the user of the IoT devices during a given time period, with top overall F1 score of 0.86. \href{https://arxiv.org/abs/1908.00592}{https://arxiv.org/abs/1908.00592}
-\sectionsep
 
 \smallsectionsep
 
 \section{Interests}
-Competitive Chess (Peak online rating 2122), Fitness, Data Privacy, Urbanism, Environmentalism
+Competitive Chess (1731 USCF), Urbanism, Cooking/Baking, Environmentalism
 
 \end{document}  \documentclass[]{article}
