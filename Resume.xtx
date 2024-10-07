@@ -96,12 +96,12 @@
 \descript{| Senior Data Scientist}
 \joblocation{Nov 2022 – Present | New York, NY}
 \begin{tightemize}
-\item Researched \& productionalized content clustering using 2 years of Peacock viewing data (> 10 TB). Clusters used throughout the organization for all marketing, targeting, recommendation efforts (GCP, BigQuery, scikit-learn, Airflow).
+\item Researched \& productionalized content clustering using 3 years of Peacock viewing data (> 10 TB). Clusters used throughout the organization for all marketing, targeting, recommendation efforts (GCP, BigQuery, scikit-learn, Airflow).
 \item Developed methodology for assigning users to content clusters, accounting for cluster sizes and types (GCP, matplotlib).
-\item Architected system for inserting new content into existing clusters on an ongoing basis (BigQuery, Airflow).
-\item Designed \& deployed customizable user migration dashboard visualization tool (Streamlit, App Engine, Plotly, Docker).
+\item Architected system for inserting new titles into existing clusters on an ongoing basis (BigQuery, Airflow).
+\item Produced propensity matching pipeline, correcting for systemic non-randomized assignment in Promo tests on Peacock Platform, and producing accurate estimates of Promo on KPIs (CausalML, Airflow, Kubernetes).
 \item Devised directional content affinity metrics based on Market Basket analysis, used to drive high level strategic decisions.
-\item Onboarded, mentored, and managed an intern; taught best practices and managed tasks.
+\item Onboarded, mentored, and managed an intern; taught best engineering practices and managed tasks.
 \item Managed relationships with key stakeholders, presented data for a range of technical expertise, updated team processes.
 
 \end{tightemize}
@@ -160,7 +160,7 @@
 \smallsectionsep
 
 \section{Skills}
-\textbf{Programming}: python, pandas, numpy, pytorch, keras, sklearn, matplotlib, git, github, SQL, linux/unix, bash \\
+\textbf{Programming}: python, pandas, numpy, sklearn, pytorch, matplotlib, git, GitHub, SQL, linux/unix, bash \\
 \textbf{Cloud}: Google Cloud Platform, BigQuery, VertexAI, Airflow, Google Cloud Storage, Composer, Docker
 
 
@@ -172,6 +172,6 @@
 \smallsectionsep
 
 \section{Interests}
-Competitive Chess (1731 USCF), Urbanism, Cooking/Baking, Environmentalism
+Competitive Chess (1748 USCF), Urbanism, Cooking/Baking, Environmentalism
 
 \end{document}  \documentclass[]{article}
